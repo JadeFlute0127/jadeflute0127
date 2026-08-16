@@ -1,11 +1,35 @@
-#  Diandian Zhang
+### Hi there 👋
 
-<br> Hi! I'm Diandian Zhang (张典典), An engineer interested in the full stack of AI. <br>
+<br> Hi! I'm JadeFlute, An engineer interested in the full stack of AI. <br>
 
+- 🌱 I got Master's Degree in School of Software Technology at Zhejiang University.
+- 🧑‍🎓 Research on Pretrain & RL Infra, Long Horizon Agentic Systems, Eval & Benchmark.
+- 🎉 Engaged in ByteDance AML, As a builder for the nation's most frontier training and inference system for ultra-large-scale LLM4Rec.
+- 💼 Once engaged as a Brave Star Talent Intern Program at Huawei, 2012 OS kernel lab.
+- 🕹️ Once engaged as a Intern Program at Moore Threads, Deep Learning Compiler & Accelerator Group.
+- 📫 You can reach me by [mail](mailto:zhangdiandian@zuaa.zju.edu.cn)
 
-📫Contact: @gmail.com
+#### Publication:
 
-![JadeFlute0127's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeFlute0127&show_icons=true&theme=tokyonight)
+##### Eval & Benchmark
+- [**COLM 2026**] Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains [paper](https://ieeexplore.ieee.org/document/10597882) [code](https://github.com/Sci-VBench/Sci-VBench) [data](https://huggingface.co/Sci-VBench) **Diandian Zhang\*** ,Tingyu Song\* ,Lin Fu\* ,Zheyuan Yang ,Yilun Zhao
 
+##### Agentic System
+- coming soon ~
 
-<details><summary>📊Weekly Development Breakdown</summary>
+##### LLMSys Infra
+- coming soon ~
+
+#### Awards:
+- 🧑‍🎓 I received the honor of Outstanding Master's Graduate from Zhejiang University in 2024.
+- 🧑‍🎓 I received the honor of Outstanding Bachelor's Degree Graduate in 20
+- ☘️ I received the National Scholarship in 2018.
+
+#### Work Principles and Technical Stance
+- Open source will inevitably triumph over closed source.
+- "User-friendliness first" will ultimately triumph over "performance first."
+- Pursuing more advanced and elegant productivity is the calling of technical professionals, but first, you must survive in the business world.
+- **Curiosity** and **Business logic** drive technological progress.
+- There is no "black magic" in any technology; Do the best in details is the shortest path to AGI.
+- The structure of the technology or code is isomorphic to the structure of the organization.
+- All bubbles will eventually return to business fundamentals.
