@@ -7,7 +7,7 @@
 - 🎉 Our paper Sci-VBench is accepted by COLM 2026, Sincerely grateful to my incredibly talented collaborators for carry me.
 - 🧑‍🎓 I got Master's Degree in School of Software Technology at Zhejiang University.
 - 🌱 Research on Pretrain & RL Infra, Long Horizon Agentic Systems, Eval & Benchmark.
-- 🎉 Engaged in ByteDance AML, As a builder for the nation's most frontier training and inference system for ultra-large-scale LLM4Rec.
+- 🎉 Engaged in ByteDance AML, As a builder for the nation's most frontier training and inference system And ultra-large-scale(with thousands of GPUs and more than 100B dense) LLM4Rec.
 - 💼 Once engaged as a Brave Star Talent Intern Program at Huawei, 2012 OS kernel lab.
 - 🕹️ Once engaged as a Intern Program at Moore Threads, Deep Learning Compiler & Accelerator Group.
 - 📫 You can reach me by [mail](mailto:zhangdiandian@zuaa.zju.edu.cn)
