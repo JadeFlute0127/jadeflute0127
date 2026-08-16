@@ -11,6 +11,7 @@
 - 💼 Once engaged as a Brave Star Talent Intern Program at Huawei, 2012 OS kernel lab.
 - 🕹️ Once engaged as a Intern Program at Moore Threads, Deep Learning Compiler & Accelerator Group.
 - 📫 You can reach me by [mail](mailto:zhangdiandian@zuaa.zju.edu.cn)
+- You can follow my reseach by [google scholar](https://scholar.google.com/citations?hl=zh-CN&user=3RbCK14AAAAJ)
 
 #### Publication:
 
