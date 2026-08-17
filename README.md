@@ -26,7 +26,7 @@
 
 #### Awards:
 - 🧑‍🎓 I received the honor of Outstanding Master's Graduate from Zhejiang University in 2024.
-- 🧑‍🎓 I received the honor of Outstanding Bachelor's Degree Graduate in 2020.
+- 🧑‍🎓 I received the honor of Outstanding Bachelor's Degree Graduate in 2021.
 - ☘️ I received the National Scholarship in 2018.
 
 #### Work Principles and Technical Stance
