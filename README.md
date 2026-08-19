@@ -16,7 +16,7 @@
 #### Publication:
 
 ##### Eval & Benchmark
-- [**COLM 2026**] Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains [paper](https://ieeexplore.ieee.org/document/10597882) [code](https://github.com/Sci-VBench/Sci-VBench) [data](https://huggingface.co/Sci-VBench) **Diandian Zhang\*** ,Tingyu Song\* ,Lin Fu\* ,Zheyuan Yang ,Yilun Zhao
+- [**COLM 2026**] Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains [paper](https://arxiv.org/abs/2608.09873) [code](https://github.com/Sci-VBench/Sci-VBench) [data](https://huggingface.co/Sci-VBench) **Diandian Zhang\*** ,Tingyu Song\* ,Lin Fu\* ,Zheyuan Yang ,Yilun Zhao
 
 ##### Agentic System
 - coming soon ~
