@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<br> Hi! I'm JadeFlute, An engineer interested in the full stack of AI. <br>
+<br> Hi! I'm JadeFlute, An engineer interested in the full stack of AI. Currently, I am interested in video generation, long horizon agents and making code-projects more AI-friendly. <br>
 
 #### News
 
