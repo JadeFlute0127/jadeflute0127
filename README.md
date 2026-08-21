@@ -37,3 +37,4 @@
 - There is no "black magic" in any technology; Do the best in details is the shortest path to AGI.
 - The structure of the technology or code is isomorphic to the structure of the organization.
 - All bubbles will eventually return to business fundamentals.
+- Slow is fast; less is more. There will always be another great opportunity—say no to FOMO.
