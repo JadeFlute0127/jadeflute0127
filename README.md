@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<br> Hi! I'm JadeFlute, An engineer interested in the full stack of AI. Currently, I am interested in video generation, long horizon agents and making code-projects more AI-friendly. <br>
+<br> Hi! I'm JadeFlute, An engineer interested in the full stack of AI. Currently, I am interested in video generation, long horizon agents and making code-projects more AI-friendly. I have nearly three years of experience at ByteDance building training infrastructure for large-scale models (exceeding 100B dense parameters) and large-scale resources (equivalent to over a million A100 GPUs).<br>
 
 #### News
 
